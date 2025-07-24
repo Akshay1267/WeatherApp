@@ -1,0 +1,23 @@
+.InfoBox {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.city-name {
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.weather-info p {
+  font-size: 16px;
+  margin: 4px 0;
+} 
+.weather-details {
+  font-size: 18px;
+  line-height: 1.6;
+}
+
+.weather-title {
+  font-size: 26px;
+  font-weight: bold;
+}

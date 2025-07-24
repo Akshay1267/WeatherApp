@@ -1,0 +1,7 @@
+.weather-box
+{
+    background-color: rgb(216, 226, 222);
+    border-radius: 1rem;
+    height: 40rem;
+    width: 40rem;
+}
